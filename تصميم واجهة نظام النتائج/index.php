@@ -1,5 +1,5 @@
 <?php 
-define("TITLE","بوابة نظام النتائج جامعة الفلوجة");
+define("TITLE","بوابة نظام النتائج ");
 ?>
 <!DOCTYPE html>
 <html lang="ar">
@@ -39,7 +39,7 @@ define("TITLE","بوابة نظام النتائج جامعة الفلوجة");
                 <li><a href="Contact.php">إتصل بنا</a></li>
             </ul>
         </nav><!-- .nav-menu -->
-        <div class="logo ml-auto"><img src="img/Fallujah-Logo.png" width="60" height="70"></div>
+        <div class="logo ml-auto"><img src="img/-Logo.png" width="60" height="70"></div>
     </div>
 </header>
 <!-- End Header -->
@@ -51,7 +51,7 @@ define("TITLE","بوابة نظام النتائج جامعة الفلوجة");
                 <div class="col-12">
                         <div class="icon-box animate__animated animate__fadeInRight">
                             <div class="icon btn-scroll"><i class="icofont-simple-down"></i></div>
-                            <h2 class="title"><span>نظام النتائج :: جامعة الفلوجة </span></h2>
+                            <h2 class="title"><span>نظام النتائج ::  </span></h2>
                         </div>
                 </div>
             </div>
@@ -136,10 +136,10 @@ define("TITLE","بوابة نظام النتائج جامعة الفلوجة");
     <footer id="footer">
         <div class="container">
             <div class="social-links">
-                <a href="https://www.facebook.com/mediaalfallujah/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="https://www.facebook.com//" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
             </div>
             <div class="copyright">
-                <p>جميع الحقوق محفوظة &copy; <strong>2013 to<?php echo date('Y'); ?> <a href="http://uofallujah.edu.iq/" >جامعة الفلوجة /مركز الحاسبة الالكترونية</a>  </strong> </p>
+                <p>جميع الحقوق محفوظة &copy; <strong>2013 to<?php echo date('Y'); ?> <a href="/" >mmmm</a>  </strong> </p>
             </div>
         </div>
     </footer>
