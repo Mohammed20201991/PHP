@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>بوابة نظام النتائج جامعة الفلوجة</title>
+    <title>بوابة نظام النتائج </title>
     <meta content="" name="descriptison">
     <meta content="" name="keywords">
     <!-- Google Fonts -->
@@ -32,7 +32,7 @@
                     <li class="active"><a href="index.php">الرئيسية</a></li>
                 </ul>
             </nav><!-- .nav-menu -->
-            <div class="logo ml-auto"><img src="img/Fallujah-Logo.png" width="60" height="70"></div>
+            <div class="logo ml-auto"><img src="img/-Logo.png" width="60" height="70"></div>
         </div>
     </header>
     <!-- End Header -->
@@ -82,7 +82,7 @@
                 <div class="section-title">
                     <div class="count-box2">
                         <i class="fas fa-graduation-cap"></i>
-                        <p>طلاب  جامعة الفلوجة </p>
+                        <p>طلاب  جامعة ا </p>
                         <span class="counternumbers">4,484</span>
                     </div>
                 </div>
@@ -157,10 +157,10 @@
     <footer id="footer">
         <div class="container">
             <div class="social-links">
-                <a href="https://www.facebook.com/mediaalfallujah/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="https://www.facebook.com/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
             </div>
             <div class="copyright">
-                    <p>جميع الحقوق محفوظة &copy; <strong>2013 to<?php echo date('Y'); ?> <a href="http://uofallujah.edu.iq/" >جامعة الفلوجة /مركز الحاسبة الالكترونية</a>  </strong> </p>            </div>
+                    <p>جميع الحقوق محفوظة &copy; <strong>2013 to<?php echo date('Y'); ?> <a href="/" ></a>  </strong> </p>            </div>
         </div>
     </footer>
     <!-- End Footer -->
