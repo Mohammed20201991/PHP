@@ -80,12 +80,12 @@
                     <div class="address">
                         <i class="icofont-google-map"></i>
                         <h4>العنوان</h4>
-                        <p> الفلوجة -الانبار-العراق </p>
+                        <p> -العراق </p>
                     </div>
                     <div class="email">
                         <i class="icofont-envelope"></i>
                         <h4>البريد الإلكتروني</h4>
-                        <p>info@uofallujah.edu.eg</p>
+                        <p>@gmail.com</p>
                     </div>
                     <div class="phone">
                         <i class="icofont-phone"></i>
@@ -107,7 +107,7 @@
                 <a href="https://www.facebook.com/mediaalfallujah/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
             </div>
             <div class="copyright">
-                <p>جميع الحقوق محفوظة &copy; <strong>2013 to<?php echo date('Y'); ?> <a href="http://uofallujah.edu.iq/" >جامعة الفلوجة /مركز الحاسبة الالكترونية</a>  </strong> </p>            </div>
+                <p>جميع الحقوق محفوظة &copy; <strong>2013 to<?php echo date('Y'); ?> <a href="/" >mmmm</a>  </strong> </p>            </div>
         </div>
     </footer>
     <!-- End Footer -->
